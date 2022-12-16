@@ -25,7 +25,7 @@ return $"{nome} - {gols} - gols";
 private Jogadpr [] js = new Jogador [10]
 private int k;
 
-/*private void Button_Click(object sender, RoutedEvent); *\
+/*private void Button_Click(object sender, RoutedEvent);*\
 {
 Jogador j = new = Jogador();
 j.SetNome(txt1.Text);
@@ -35,7 +35,7 @@ k++;
 list.ItensSource = null;
 list.ItensSource = js;
 }
-/*private void Artilheiro_Click(object sender, RoutedEvent); *\
+/*private void Artilheiro_Click(object sender, RoutedEvent);*\
 {
 if (k==0)
 { 
